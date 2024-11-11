@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WaddleMan3003
+- 👋 Hi, I’m Vinnie De Lisi.
 - 👀 I’m interested in ... Computer Science and Video Game Development and Design!
 - 🌱 I’m currently learning ... how to code in C++.
 - 💞️ I’m looking to collaborate on ... video game development projects.
